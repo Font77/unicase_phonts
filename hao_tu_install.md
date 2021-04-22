@@ -33,4 +33,4 @@
 1. click ok
 
 [1]: github.com/font77/unicase_phonts
-[i1]: phayrphoks_settings.png
+[i1]: imez/phayrphoks_settings.gif
