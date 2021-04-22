@@ -14,6 +14,7 @@
 
 ### steps phur installation in linuks mozilla phayrphoks
 
+![][i1]
 1. go tu settings by clicking  **gear like button in right** .
 1. search fonts in  **find in preferences search boks** .
 1. click **Advanced** button .
@@ -32,3 +33,4 @@
 1. click ok
 
 [1]: github.com/font77/unicase_phonts
+[i1]: phayrphoks_settings.png
