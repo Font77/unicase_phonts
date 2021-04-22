@@ -18,7 +18,9 @@
 1. go tu settings by clicking  **gear like button in right** .
 1. search fonts in  **find in preferences search boks** .
 1. click **Advanced** button .
+
 ![][i2]
+
 1. select **latin** .in **_fonts for_** drop daun boks.
   1. select **serif** .in **_proportional_** drop daun boks.
   1. select **vhat phont you need** .in **seriph** drop daun boks.
@@ -35,4 +37,4 @@
 
 [1]: github.com/font77/unicase_phonts
 [i1]: imez/phayrphoks_settings.gif
-[i2]: imez/phayrphoks_settings.gif
+[i2]: imez/Advanced_phonts.png
