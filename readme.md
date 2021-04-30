@@ -1,26 +1,23 @@
-# zava810 online school
+# ascii510 based unicase phonts phur book reading
+
+![][ia810]
 
 #### p8 5A srs royal hills , faridabad
 
 #### ph : +91-0129-4105-199 ( heksadesiml nmbr )
 
-#### [vk.com/etphor]
-
-#### [plurk.com/vnti10vnso100]
-
-##### subjects :
 1. maths ( 4_fourTh - q_kvAlvTh ) , zemistry ( 9_nineTh - q_kvAlvTh )
 2. zinglish seo & marketiNg ( 7Th - J_zilevnTh - bca/mca)
 3. zava810/Android rust810 python ( L_tenTh - J_zilevnTh - bca/mca .. )
 4. gimp , kdenlive , linuxmint , notepad++ ( 7Th - J_zilevnTh - bca/mca)
 
-pliiz try hksuletr.apk, hpop_u5.apk u5.ttf (zfont 3 needed) At:
+pliiz try hksuletr.apk, hpop_u5.apk u5.ttf (zfont 3 needed) At: [github/zava810][z8z8] .
 
-github.com/font77/heks810
+
 
 ### ascii510(5+5=10=?X?) -> ascii810(8+8=10=4X4)  
 
-### zava810_fup_lib -> zava810 -> hscii810 -> Alu 
+### zava810_fup_lib -> zava810 -> hscii810 -> Alu
 
 >class cl_long810{
 
@@ -32,17 +29,17 @@ github.com/font77/heks810
 >>{
 
 >>>this.desiml_point_pozition = desiml_point_pozition;
- 
+
 >>>this.nmbr810 = **util.parse_int_810(nmbr810_in_figures);**
- 
+
 >>}
 
 >}
 
-  
+
 # hpop kibord phur qndroed (Android)
 ![hpop imej giphy](https://media.giphy.com/media/BZ78kudbc1xy5C1Wp2/giphy.gif)
-![heksadesiml mqxhs](https://media.giphy.com/media/H69JHPOAQLNfT0OgPv/giphy.gif) 
+![heksadesiml mqxhs](https://media.giphy.com/media/H69JHPOAQLNfT0OgPv/giphy.gif)
 [cart](https://gfycat.com/gargantuancourteousasp)
 
 ## steps tu instal **roboto510(hindi) roboto810(heksadesiml) roboto810p(programming** phont & **hpop kibord** on android mobail
@@ -62,14 +59,14 @@ github.com/font77/heks810
 
 ![bhasa](https://media.giphy.com/media/h1nksDAIfSGcAyqT0L/giphy.gif)
 
-## heksa_bin binary f/f% kmpliit digital mAThs :- 
+## heksa_bin binary f/f% kmpliit digital mAThs :-
 > **it siims vi shud kaunt on phiNgArs & yuj Thmbs tu sho & haid.**
 ![hmqxhs1](https://media.giphy.com/media/iFyfkrakAT9L6qs0RM/giphy.gif)
 
 photos & qnimesqns bilo  
 
-  
-  
+
+
 [vidiolist](https://www.youtube.com/playlist?list=PLlYCdgTLt8n9FbT69DieXkc00VdW3wa1W)
 [hbord vidio](https://youtu.be/VogKRvYheDM)
 [heksmqxhs2 giphyvidio](https://giphy.com/gifs/SuBYdWOLQraLIEALbp/html5)
@@ -77,11 +74,11 @@ photos & qnimesqns bilo
 haski_8_10 midori braujr project viwh heksifglish button "h"  
 midori braujr viwh heksifglish button vith 'h' label.  
 vhen user press this button , tekst on current vebpage gets changed as in bilo steps :
-1. all capital case gets changed to small case:  A-Z -> a-z   ( like cntr+u in notepad++) 
+1. all capital case gets changed to small case:  A-Z -> a-z   ( like cntr+u in notepad++)
 2. all f, q, w, x, z gets changed as :     f->ph , q->k , w -> v , x->qks, z->j
 3. all :;&lt;=&gt;? gets changed as  : -&gt; A , ; -&gt; B , &lt; -&gt; C , = -&gt; D , &gt; -&gt; E , ? -&gt; F
 4) page gets refreshed but phonts gets changed to roboto_heks_jk.ttf  
-  
+
 
 
 
@@ -121,7 +118,8 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 9. hesbin cart
 [iot maths](https://heksinglish.tumblr.com/post/629519441992007680/iot-maths-mathematics-future-technology)
 
-#### rephrens lifks:  
+#### rephrens lifks:
+[pl1]: http://vk.com/etphor
 [roboto510 roboto810 robotobin]: https://github.com/Font77/heks810
 [github hpop apk lifk]: https://github.com/Font77/hpop/tree/master/app/release
 [hqkqrskibord_yu_ar_ql]: https://github.com/klausw/hackerskeyboard
@@ -129,5 +127,7 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 ### kontAkt mi
 2. [fb vnti10](fb.me/vnti10)
 3. [m vnti10](m.me/vnti10)
-
-
+[pl1]: http://vk.com/etphor
+[pl2]: http://plurk.com/vnti10vnso100
+[z8z8]: http://github.com/zava810/zava810
+[ia810]: https://github.com/zava810/kontent/tree/main/imez/zpg_png
