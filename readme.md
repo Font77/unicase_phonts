@@ -11,7 +11,10 @@
 3. zava810/Android rust810 python ( L_tenTh - J_zilevnTh - bca/mca .. )
 4. gimp , kdenlive , linuxmint , notepad++ ( 7Th - J_zilevnTh - bca/mca)
 
-pliiz try hksuletr.apk, hpop_u5.apk u5.ttf (zfont 3 needed) At: [github/zava810][z8z8] .
+pliiz try in your Android / mozilla phayrphoks:
+
+#### hksuletr.apk, hpop_u5.apk u5.ttf (zfont 3 needed)
+At: [github/zava810][z8z8] .
 
 
 
@@ -130,4 +133,4 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 [pl1]: http://vk.com/etphor
 [pl2]: http://plurk.com/vnti10vnso100
 [z8z8]: http://github.com/zava810/zava810
-[ia810]: https://github.com/zava810/kontent/blob/main/imez/zpg_png/u8.ascii810.jpg
+[ia810]: imez/u8.ascii810.jpg
