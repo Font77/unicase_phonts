@@ -1,6 +1,6 @@
 # ascii510 based unicase phonts phur book reading
 
-![][ia810]
+![ascii810 imez][ia810]
 
 #### p8 5A srs royal hills , faridabad
 
@@ -130,4 +130,4 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 [pl1]: http://vk.com/etphor
 [pl2]: http://plurk.com/vnti10vnso100
 [z8z8]: http://github.com/zava810/zava810
-[ia810]: https://github.com/zava810/kontent/tree/main/imez/zpg_png
+[ia810]: https://github.com/zava810/kontent/blob/main/imez/zpg_png/u8.ascii810.jpg
