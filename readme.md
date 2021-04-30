@@ -128,8 +128,8 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 [hqkqrskibord_yu_ar_ql]: https://github.com/klausw/hackerskeyboard
 
 ### kontAkt mi
-2. [fb vnti10](fb.me/vnti10)
-3. [m vnti10](m.me/vnti10)
+[fb vnti10]: (fb.me/vnti10)
+[m vnti10]: (m.me/vnti10)
 [pl1]: http://vk.com/etphor
 [pl2]: http://plurk.com/vnti10vnso100
 [z8z8]: http://github.com/zava810/zava810
