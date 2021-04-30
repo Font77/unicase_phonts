@@ -1,10 +1,53 @@
-# ascii510 based unicase phonts phur book reading
+# ascii810 0123456789LJQWXF ek saTh / together.
 
 ![ascii810 imez][ia810]
 
-#### p8 5A srs royal hills , faridabad
 
-#### ph : +91-0129-4105-199 ( heksadesiml nmbr )
+2 Thumbs sign shou svitch phur oph/on/lock/unlock \
+8 phingers to type zinglish & compute zava810 \
+8 + 8 = 10 = vnti = 4 * 4 \
+L = ten , J = zilevn , Q = kvAlv , W = dblu , X = Aksen , F = phen = vnti - 1 = 10 -1
+
+
+## linuks mint me keyboard bDle xkb ke saTh.
+![][kibord810]
+
+linuks mint me is keypad ke liye **[zi base.lst evdev.xml][l1]** dounload kiziye.
+
+![linuks mint keyboard layout phails][xkblocimz]
+
+
+1. **zi** ko **/usr/share/X11/xkb/symbols/** mein paste kre. iske liye symbols ko **root access** ke saTh khole.
+2. sudo vi /usr/share/X11/xkb/rules/base.lst
+3. isko open krke layout search kre Aur **zi** layout ki line add kre.
+```
+! layout
+us              English (US)
+zi              zinglishzava810scotlish
+```
+4. **evdev.xml** ko **/usr/share/X11/xkb/rules/** me paste kre. iske liye ise root access ke saTh khole.
+5. setxkbmap command linuks prompt pr try kre.
+
+> $ **setxkbmap zi**
+
+Ab keys (Q A) , (w D) , (T, X) , (F,N) , (X,T) press krke Dekhe. phir se shipht key ke saTh bhi Dekhe.
+
+> $ **setxkbmap us**
+
+
+Ab keys (Q A) , (w D) , (T, X) , (F,N) , (X,T) press krke Dekhe. phir se shipht key ke saTh bhi Dekhe.
+
+iin 3 phails ko yha se [daunload](../mintoskeybord) kre or sHi se bDle.
+
+to try these in Android/mozilla , kirpya/pliiz :
+
+1. **hksuletr.apk** daunload kre Aur Android mein install kre.
+2. **hpop_u5.apk** daunload kre Aur Android mein hpop keypad install kre.
+3. **zFont 3** google **play store** se install kre.
+4. **u5cdot.ttF** daunload kre Aur Android mein **zFont 3** ke saTh install kre.
+5. mozilla me u5cdot install krne ke liye [hao tu](./hao_tu_install.md) prrkr/read kre.
+
+AgAr apko koi **help** cahiye Toh [vk/zs810](vk.com/zs810) pr piNg kiziyega.
 
 1. maths ( 4_fourTh - q_kvAlvTh ) , zemistry ( 9_nineTh - q_kvAlvTh )
 2. zinglish seo & marketiNg ( 7Th - J_zilevnTh - bca/mca)
@@ -121,16 +164,21 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 9. hesbin cart
 [iot maths](https://heksinglish.tumblr.com/post/629519441992007680/iot-maths-mathematics-future-technology)
 
-#### rephrens lifks:
 [pl1]: http://vk.com/etphor
 [roboto510 roboto810 robotobin]: https://github.com/Font77/heks810
 [github hpop apk lifk]: https://github.com/Font77/hpop/tree/master/app/release
 [hqkqrskibord_yu_ar_ql]: https://github.com/klausw/hackerskeyboard
 
 ### kontAkt mi
-[fb vnti10]: (fb.me/vnti10)
-[m vnti10]: (m.me/vnti10)
+[l1]: ../mintoskeybord/
+
 [pl1]: http://vk.com/etphor
 [pl2]: http://plurk.com/vnti10vnso100
+[pl3]: http://fb.me/vnti10
+[pl4]: (http://m.me/vnti10)
+
 [z8z8]: http://github.com/zava810/zava810
 [ia810]: imez/u8.ascii810.jpg
+[h40]: imez/h40kaunt.jpg
+[kibord810]: imez/kibord.ascii810.jpg
+[xkblocimz]: imez/xkbmintos1.png
