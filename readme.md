@@ -1,7 +1,12 @@
-# ascii810 0123456789LJQWXF ek saTh / together.
-
-![ascii810 imez][ia810]
-
+# hscii810 phur digital zinglish zemistry maths & zava 0123456789LJQWXF
+##### (heksadesiml stAndArd code phur inphormesn intercenz)
+<img src="imez/hscii_keybord.png" alt="multilanguage keyboard">
+(keyboard layout phur hscii810 zava multilanguage mozilla mint linuks )
+<hr></hr>
+<img src="imez/hscii_all_simbls.png" alt="multilanguage keyboard">
+(<a href="https://github.com/Font77/unicase_phonts">
+vant to try? pliiz install/cenz unicase phonts in mozilla/mint_linuks/Android</a>)
+<hr></hr>
 
 2 Thumbs sign shou svitch phur oph/on/lock/unlock \
 8 phingers to type zinglish & compute zava810 \
