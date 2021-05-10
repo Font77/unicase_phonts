@@ -17,7 +17,7 @@ L = ten , J = zilevn , Q = kvAlv , W = dblu , X = Aksen , F = phen = vnti - 1 = 
 ## linuks mint me keyboard bDle xkb ke saTh.
 ![][kibord810]
 
-linuks mint me is keypad ke liye **[1.zi 2.base.lst 3.evdev.xml][l1]** dounload kiziye.
+linuks mint me is keypad ke liye **<a href="./mintoskeybord">1.zi 2.base.lst 3.evdev.xml</a>** dounload kiziye.
 
 ![linuks mint keyboard layout phails][xkblocimz]
 
