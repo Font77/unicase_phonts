@@ -1,6 +1,8 @@
 # steps phur installation
 
-1. dauload u5cdot.ttf/u5c.ttf/..  phonts phrom  [github/font77/unicase_phonts  repo][1]
+1. dauload u5cdot.ttf/u5c.ttf/..  phonts phrom  
+
+<a href="https://github.com/Font77/unicase_phonts/tree/master/yunikes">github/font77/unicase_phonts  repo</a>
 
 ### steps phur installation in linuks mint
 
