@@ -1,4 +1,47 @@
-# ascii810 0123456789LJQWXF ek saTh / together.
+# linuks mint keyboard layout
+
+```
+ mendeelev multilanguages
+ mint_linuks
+ mintos_minu_tree_os
+ mozilla_internet
+ zn zinc zr zirconium J=zileven=8+3=10-5=L+1=Q-1=W-2=X-3=F-4
+```
+1. <a href="https://en.wikipedia.org/wiki/Scots_language">scotlAnd => skotish spiiks.</a>
+2. EnglAnd => ENglish spells.
+3. <a href="https://www.youtube.com/watch?v=yjCYCI3bOuc">songlAnd => soNglish siNgs.</a>
+4. zava zemistry810
+
+<a href="https://www.youtube.com/watch?v=Oj1wVNOsAGI&list=PLpM_RUgV9tKrcDBfydC7ciW-qpurGF2Xw&index=3">
+l88 kibord phor phont77
+</a>
+
+hm linuks mint me keyboard cenz krke use hscii810 multilanguages:
+<select name="hscii_selects" id="hscii_selects">
+  <option value="zinglish_item">0_zinglish_zava_zemistry</option>
+  <option value="scotish_soNglis_item">1_scotish_soNglish</option>
+  <option value="hriyanvish_item">2_hriyanvish</option>
+  <option value="pnzabish_item">3_pnzabish</option>
+  <option value="hinDish_iem">4_hinDish</option>
+  <option value="mlyalish_item">5_mlyalish</option>
+  <option value="mrathish_item">6_mrathis</option>
+  <option value="grrvalish_item">7_grrvalish</option>
+  <option value="kshmirish_item">8_kshmirish</option>
+  <option value="Telgulish_item">9_Telgulish</option>
+  <option value="bNgalish_item">L_bNgalish</option>
+  <option value="urDish_item">J_urDish</option>
+  <option value="Tmilish_item">Q_Tmilish</option>
+  <option value="knrrish_item">W_knrrish</option>
+  <option value="guzraTish_item">X_guzraTish</option>
+  <option value="urriyish_item">F_urriyish</option>
+  <option value="nepalish_item">10_nepalish</option>
+</select>
+<ol>
+<li></li>
+<li>zinglish zava zemistry (zn zinc zr zirconium J=zileven=8+3=10-5=L+1=Q-1=W-2=X-3=F-4)</li>
+<li>zinglish zava zemistry (zn zinc zr zirconium J=zileven=8+3=10-5=L+1=Q-1=W-2=X-3=F-4)</li>
+</ol>
+ ke liye use kr skTe h:
 
 ![ascii810 imez][ia810]
 
@@ -59,7 +102,8 @@ pliiz try in your Android / mozilla phayrphoks:
 #### hksuletr.apk, hpop_u5.apk u5.ttf (zfont 3 needed)
 At: [github/zava810][z8z8] .
 
-
+<img src="imez/vest_zemanic_languages.png" alt="hscii zinglish multilanguage"></img>
+<a href="en.wikipedia.org/wiki/west_germanic_languages">vest_zemanic_languages</a>
 
 ### ascii510(5+5=10=?X?) -> ascii810(8+8=10=4X4)  
 

@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Sun May  9 14:10:25 2021
+Created by FontForge 20190801 at Sun May  9 14:09:13 2021
  By www-data
 copyright (c) 2021d=7X5h(sevenso Aksti phaiv), heksadesiml@gmail.com, other fonts as :
 Delius_unicase (designed by natalia raices)
@@ -20,9 +20,9 @@ p -&#62; capital case no programming symbols yes
 v -&#62; phonetik vokl ordr
 </metadata>
 <defs>
-<font id="u5cdot" horiz-adv-x="490" >
+<font id="hscii" horiz-adv-x="490" >
   <font-face 
-    font-family="u5cdot"
+    font-family="hscii"
     font-weight="400"
     font-stretch="normal"
     units-per-em="1000"
