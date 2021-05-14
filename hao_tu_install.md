@@ -1,6 +1,6 @@
 # steps phur installation
 
-1. dauload u5cdot.ttf/u5c.ttf/..  phonts phrom  
+1. dauload u5c.ttf/..  phonts phrom  
 
 <a href="https://github.com/Font77/unicase_phonts/tree/master/yunikes">github/font77/unicase_phonts  repo</a>
 
