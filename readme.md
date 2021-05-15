@@ -4,9 +4,9 @@
 <img src="keybord/hbpop_phonics_enghindsym.gif" alt="multilanguage keyboard">
 (keyboard layout phur hscii810 zava multilanguage mozilla mint linuks )
 <hr></hr>
-<img src="keybord/vest_zemanic_languages.png" alt="multilanguage keyboard">
-
 (vest zermanik lANguAzis)
+
+<img src="keybord/vest_zemanic_languages.png" alt="multilanguage keyboard">
 <hr></hr>
 <img src="keybord/hinDi_simbls_all.png" alt="multilanguage keyboard">
 (<a href="https://github.com/Font77/unicase_phonts">
