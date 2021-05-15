@@ -1,34 +1,39 @@
 # hscii810 phur digital zinglish zemistry maths & zava 0123456789LJQWXF
 ##### (heksadesiml stAndArd code phur inphormesn intercenz)
 <hr></hr>
-<img src="keybord/hbpop_phonics_enghindsym.gif" alt="multilanguage keyboard">
+<img src="imez/keybord/hbpop_phonics_enghindsym.gif" alt="multilanguage keyboard">
 (keyboard layout phur hscii810 zava multilanguage mozilla mint linuks )
 <hr></hr>
 (vest zermanik lANguAzis)
 
-<img src="keybord/vest_zemanic_languages.png" alt="multilanguage keyboard">
+<img src="imez/keybord/vest_zemanic_languages.png" alt="multilanguage keyboard">
 <hr></hr>
-<img src="keybord/hinDi_simbls_all.png" alt="multilanguage keyboard">
+
+
+<img src="imez/keybord/hinDi_simbls_all.png" alt="multilanguage keyboard">
+
+<hr></hr>
+<img src="imez/keybord/hpop_phonics1.png" alt="multilanguage keyboard">
 (<a href="https://github.com/Font77/unicase_phonts">
 vant to try? pliiz install/cenz unicase phonts in mozilla/mint_linuks/Android</a>)
 <hr></hr>
-<img src="keybord/hpop_phonics1.png" alt="multilanguage keyboard">
+#### hinDi snskriT mrathi guzraTi Devnagri keyboard
+
+<img src="imez/keybord/hscii_keybord_hinDi.png" alt="multilanguage keyboard">
 (<a href="https://github.com/Font77/unicase_phonts">
 vant to try? pliiz install/cenz unicase phonts in mozilla/mint_linuks/Android</a>)
 <hr></hr>
-<img src="keybord/hscii_keybord_hinDi.png" alt="multilanguage keyboard">
-(<a href="https://github.com/Font77/unicase_phonts">
-vant to try? pliiz install/cenz unicase phonts in mozilla/mint_linuks/Android</a>)
-<hr></hr>
+
+```
 
 2 Thumbs sign shou svitch phur oph/on/lock/unlock \
 8 phingers to type zinglish & compute zava810 \
 8 + 8 = 10 = vnti = 4 * 4 \
 L = ten , J = zilevn , Q = kvAlv , W = dblu , X = Aksen , F = phen = vnti - 1 = 10 -1
-
+```
 
 ## linuks mint me keyboard bDle xkb ke saTh.
-![][kibord810]
+<img src="imez/set_phonts/xkbmintos1.png" alt="xkb folders/files">
 
 linuks mint me is keypad ke liye **<a href="./mintoskeybord">1.zi 2.base.lst 3.evdev.xml</a>** dounload kiziye.
 
