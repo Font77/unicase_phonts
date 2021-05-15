@@ -3,7 +3,7 @@ FontName: binary_vertical_u5hp2
 FullName: binary_vertical_u5hp2
 FamilyName: binary_vertical_u5hp2
 Weight: regular
-Copyright: copyright (c) 2021d=7X5h(sevenso Aksti phaiv), heksadesiml@gmail.com, other fonts as :\nDelius_unicase (designed by natalia raices)\n    => u5.\n        => u5c=>u5h=>u5r=>u5p=>u5ch=>u5v\n        => u8c=>u8h=>u8r=>u8p=>u8ch=>u8v\n        => u2c          =>u2ch          =>u2ch\n        => u2zc\n        \nc -> capital case as like program/heks810 symbols\nh -> LJqwXF continuous , ABCDEF-LJqwXF lost\nrf -> j->H, q->A ,  x->T,  w->D\nr -> f-> N , j->H, q->A ,  x->T,  w->D\np -> capital case no programming symbols yes\nv -> phonetik vokl ordr
+Copyright: copyright (c) 2021d=7X5h(sevenso Aksti phaiv), heksadesiml@gmail.com, other fonts as :\ndelius_unicase (designed by natalia raices)\n    => u5.\n        => u5c=>u5h=>u5r=>u5p=>u5ch=>u5v\n        => u8c=>u8h=>u8r=>u8p=>u8ch=>u8v\n        => u2c          =>u2ch          =>u2ch\n        => u2zc\n        \nc -> capital case as like program/heks810 symbols\nh -> LJqwXF continuous , ABCDEF-LJqwXF lost\nzf -> j->H, q->A ,  x->T,  w->D\nz -> f-> N , j->H, q->A ,  x->T,  w->D\np -> capital case no programming symbols yes\nv -> phonetik vokl ordr
 Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1314993210
-ModificationTime: 1620881122
+ModificationTime: 1621074721
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -101,7 +101,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65539 315
