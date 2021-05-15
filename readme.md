@@ -26,11 +26,17 @@ vant to try? pliiz install/cenz unicase phonts in mozilla/mint_linuks/Android</a
 
 ```
 
-2 Thumbs sign shou svitch phur oph/on/lock/unlock \
-8 phingers to type zinglish & compute zava810 \
-8 + 8 = 10 = vnti = 4 * 4 \
-L = ten , J = zilevn , Q = kvAlv , W = dblu , X = Aksen , F = phen = vnti - 1 = 10 -1
+2 Thumbs sign shou svitch phur oph/on/lock/unlock
+8 phingers to type zinglish & compute zava810
+8 + 8 = 10 = vnti = 4 * 4
+L = ten/Ds , J = zilevn/zyarh , Q = kvAlv/barh ,
+W = dblu/Terh , X = Aksen/coDH ,
+F = phen/pnDrh = vnti - 1 = 10 - 1 = vnti - vn
+= ekti - ek = 10 - 1
 ```
+<a href="https://github.com/zava810/kms/">github/zava810/kms/</a> -> imez/mni810
+
+<img src="https://github.com/zava810/kms/blob/main/imez/mni810/heksoin_mni810_all.gif"></img>
 
 ## linuks mint me keyboard bDle xkb ke saTh.
 <img src="imez/set_phonts/xkbmintos1.png" alt="xkb folders/files">
