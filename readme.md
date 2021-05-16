@@ -1,7 +1,7 @@
 # hscii810 phur digital zinglish zemistry maths & zava 0123456789LJQWXF
 ##### (heksadesiml stAndArd code phur inphormesn intercenz)
 <hr></hr>
-<img src="imez/keybord/hbpop_phonics_enghindsym.gif" alt="multilanguage keyboard">
+<img src="imez/keybord/hbord_hpop_phonics.gif" alt="multilanguage keyboard">
 (keyboard layout phur hscii810 zava multilanguage mozilla mint linuks )
 <hr></hr>
 (vest zermanik lANguAzis)
@@ -10,16 +10,22 @@
 <hr></hr>
 
 
-<img src="imez/keybord/hinDi_simbls_all.png" alt="multilanguage keyboard">
+<img src="imez/keybord/hscii_sym_ekti.png" alt="multilanguage keyboard">
 
 <hr></hr>
-<img src="imez/keybord/hpop_phonics1.png" alt="multilanguage keyboard">
-(<a href="https://github.com/Font77/unicase_phonts">
-vant to try? pliiz install/cenz unicase phonts in mozilla/mint_linuks/Android</a>)
+<img src="imez/keybord/hpop_camel.png" alt="multilanguage keyboard">
+
+
+1. to install keypad in Android <a href="https://github.com/zava810/zava810">vizit</a> & daunload  install
+(hpop_u5.apk) & u5c.ttf(using zfont3) in Android.
+
+2.<a href="https://github.com/Font77/unicase_phonts">
+click & phollo steps to install/cenz unicase phonts in mozilla/mint_linuks/Android</a>
+
 <hr></hr>
 #### hinDi snskriT mrathi guzraTi Devnagri keyboard
 
-<img src="imez/keybord/hscii_keybord_hinDi.png" alt="multilanguage keyboard">
+<img src="imez/keybord/kiiz_sym_hindi.png" alt="multilanguage keyboard">
 (<a href="https://github.com/Font77/unicase_phonts">
 vant to try? pliiz install/cenz unicase phonts in mozilla/mint_linuks/Android</a>)
 <hr></hr>
