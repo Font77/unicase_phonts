@@ -17,6 +17,15 @@
          url('uphonts/u5c.svg#u5c') format('svg');
 }
 @font-face {
+    font-family: 'u5cdot';
+    src: url('fonts/u5cdot.eot');
+    src: url('fonts/u5cdot.eot') format('embedded-opentype'),
+         url('fonts/u5cdot.woff2') format('woff2'),
+         url('fonts/u5cdot.woff') format('woff'),
+         url('fonts/u5cdot.ttf') format('truetype'),
+         url('fonts/u5cdot.svg#u5cdot') format('svg');
+}
+@font-face {
     font-family: 'u5hp';
     src: url('uphonts/u5hp.eot');
     src: url('uphonts/u5hp.eot') format('embedded-opentype'),
