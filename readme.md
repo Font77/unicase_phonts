@@ -1,5 +1,6 @@
 # hscii810 phur digital zinglish zemistry maths & zava 0123456789LJQWXF
 ##### (heksadesiml stAndArd code phur inphormesn intercenz)
+### **[u5cdot phonts instal ke liye vizit kre](./hao_tu_install.md)**
 <hr></hr>
 <img src="imez/keybord/hbord_hpop_phonics.gif" alt="multilanguage keyboard">
 (keyboard layout phur hscii810 zava multilanguage mozilla mint linuks )
