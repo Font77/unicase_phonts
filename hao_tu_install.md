@@ -46,7 +46,7 @@
 1. u5cdot_pnzabi_gurumukhi screenshot.
 ![](./imez/u5cdot_pnzabi_gurumukhi.png)
 1. u5cdot_oriya.png  screenshot.
-![](./imez/u5cdot_oriya.png.png)
+![](./imez/u5cdot_oriya.png)
 ----------
 
 
