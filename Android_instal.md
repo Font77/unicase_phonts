@@ -1,6 +1,5 @@
 ### use Aur instal krne ke steps (steps phur use & installation)
 -------
-
 ##### 1) [unicase_phonts repozitory](https://github.com/Font77/unicase_phonts) dounlod kre ya git clone kre.
 ```
    1. click clone(green) button -> click "dounlod zip"
@@ -10,14 +9,6 @@
    4. check kre unicase_phonts/yunikes pholder me u5cdot.ttf .ttf files h. ye phonts file h. inko vindouz/linuks/Android me install krTe h.
 ```
 ------
-##### install in vindoz/linuks , phayrphoks
-<table style="width:100%">
-<tr> <td>[install u5cdot.ttf in vindoz](./vindoz_install.md)</td> </tr>
-<tr> <td>[install u5cdot.ttf in linuks mint](./linuks_install.md)</td></tr>
-<tr> <td>[install u5cdot.ttf in phayrphoks brauzr](./mozilla_u5cdot.md)</td></tr>
-</table>
-------
-
 ##### 2) vindouz me instal krne ke steps :
 ```
   1. unicase_phonts/yunikes folder me zaiyega.

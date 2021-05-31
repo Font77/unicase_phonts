@@ -1,5 +1,12 @@
 # hscii810 phur digital zinglish zemistry maths & zava 0123456789LJQWXF
-##### (heksadesiml stAndArd code phur inphormesn intercenz)
+------
+##### install **u5cdot.ttf font** , "ztr firefox addon" in vindoz/linuks , phayrphoks
+<table style="width:100%">
+<tr> <td>[install u5cdot.ttf in vindoz](./vindoz_install.md)</td> </tr>
+<tr> <td>[install u5cdot.ttf in linuks mint](./linuks_install.md)</td></tr>
+<tr> <td>[install u5cdot.ttf in phayrphoks brauzr](./mozilla_u5cdot.md)</td></tr>
+</table>
+------
 ### **[u5cdot phonts instal ke liye vizit kre](./hao_tu_install.md)**
 <hr></hr>
 <img src="imez/keybord/hbord_hpop_phonics.gif" alt="multilanguage keyboard">

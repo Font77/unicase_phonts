@@ -1,6 +1,5 @@
 ### use Aur instal krne ke steps (steps phur use & installation)
 -------
-
 ##### 1) [unicase_phonts repozitory](https://github.com/Font77/unicase_phonts) dounlod kre ya git clone kre.
 ```
    1. click clone(green) button -> click "dounlod zip"
@@ -10,22 +9,7 @@
    4. check kre unicase_phonts/yunikes pholder me u5cdot.ttf .ttf files h. ye phonts file h. inko vindouz/linuks/Android me install krTe h.
 ```
 ------
-##### install in vindoz/linuks , phayrphoks
-<table style="width:100%">
-<tr> <td>[install u5cdot.ttf in vindoz](./vindoz_install.md)</td> </tr>
-<tr> <td>[install u5cdot.ttf in linuks mint](./linuks_install.md)</td></tr>
-<tr> <td>[install u5cdot.ttf in phayrphoks brauzr](./mozilla_u5cdot.md)</td></tr>
-</table>
-------
-
-##### 2) vindouz me instal krne ke steps :
-```
-  1. unicase_phonts/yunikes folder me zaiyega.
-  2. sbhi phonts (.ttf file) ko right_click->install as admin-> kiziyega
-  3. AgAr aap ko koi smAsya aaTi h Toh [vindouz support vizit kre](https://support.microsoft.com/en-us/topic/download-and-install-custom-fonts-to-use-with-office-0ee09e74-edc1-480c-81c2-5cf9537c70ce)
-```
-
-##### 3) steps phur installation in linuks mint :[help/support](https://blog.softhints.com/add-new-fonts-in-linux-mint/)
+##### 2) steps phur installation in linuks mint :[help/support](https://blog.softhints.com/add-new-fonts-in-linux-mint/)
 1. terminal ke $> prompt me "sudo apt-get install font-manager" command run kiziyega.
 1. unicase_phonts/yunikes folder me zaiyega.
 3. u5cdot.ttf pr mouse krsr lezakr right klick kiziyega.
@@ -45,7 +29,7 @@
 12. run phont cache **fc-cache -f -v** command
 11. AgAr aap ko koi smAsya aaTi h Toh ["linux mint font install" duckduckgo.com me search kre](https://blog.softhints.com/add-new-fonts-in-linux-mint/)
 -------
-### steps phur installation in linuks mozilla phayrphoks
+##### steps phur installation in linuks mozilla phayrphoks
 ![][i1]
 1. go tu settings by clicking  **gear like button in right** .
 1. search fonts in  **find in preferences search boks** .
@@ -58,7 +42,9 @@
 ![](./imez/u5cdot_oriya.png)
 ----------
 
-
-[1]: github.com/font77/unicase_phonts
-[i1]: imez/phayrphoks_settings.gif
-[i2]: imez/Advanced_phonts.png
+#### steps phur installing ztr(zabc transliterator) in phayrphoks
+1. [ztr mozilla addon open kre](https://addons.mozilla.org/en-US/firefox/addon/ztr/)
+2. **Add to firefox** button click kiziyega.
+3. **Add** button klick kiziyega
+4. **Allo in private vindo" checkboks ko check krke **okay** button press kiziyega.
+![](./imez/allou_private.png)
