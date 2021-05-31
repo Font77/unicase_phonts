@@ -12,7 +12,7 @@
 ----------
 
 #### steps phur installing ztr(zabc transliterator) in phayrphoks
-1. [ztr mozilla addon open kre](https://addons.mozilla.org/en-US/firefox/addon/ztr/)
+1. **[ztr mozilla addon open kre](https://addons.mozilla.org/en-US/firefox/addon/ztr/)**
 2. **Add to firefox** button click kiziyega.
 3. **Add** button klick kiziyega
 4. **Allo in private vindo" checkboks ko check krke **okay** button press kiziyega.

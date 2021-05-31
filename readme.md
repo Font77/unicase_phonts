@@ -2,9 +2,9 @@
 ------
 ##### install **u5cdot.ttf font** , "ztr firefox addon" in vindoz/linuks , phayrphoks
 <table style="width:100%">
-<tr> <td>[install u5cdot.ttf in vindoz](./vindoz_install.md)</td> </tr>
-<tr> <td>[install u5cdot.ttf in linuks mint](./linuks_install.md)</td></tr>
-<tr> <td>[install u5cdot.ttf in phayrphoks brauzr](./mozilla_u5cdot.md)</td></tr>
+<tr> <td><a href="./vindoz_install.md">install u5cdot.ttf in vindoz</a></td> </tr>
+<tr> <td><a href="./linuks_install.md">install u5cdot.ttf in linuks/linux</a></td> </tr>
+<tr> <td><a href="./mozilla_u5cdot.md">install u5cdot.ttf in phayrphoks brauzr</a></td></tr>
 </table>
 ------
 ### **[u5cdot phonts instal ke liye vizit kre](./hao_tu_install.md)**
