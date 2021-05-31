@@ -1,4 +1,13 @@
 # hscii810 phur digital zinglish zemistry maths & zava 0123456789LJQWXF
+-------
+##### 1) [unicase_phonts repozitory](https://github.com/Font77/unicase_phonts) dounlod kre ya git clone kre.
+
+1. click **clone**(green) **button** -> click **dounlod zip**
+ (or / ya phir apke computer me git install h To ap clone kr skTe h)
+2. git clone https://github.com/Font77/unicase_phonts.git
+3. AgAr zip dounload kiye h To unzip krke unicase_phonts pholdr prapT kiziyega
+4. check kre unicase_phonts/yunikes pholder me u5cdot.ttf .ttf files h. ye phonts file h. inko vindouz/linuks/Android me install krTe h.
+
 ------
 ##### install **u5cdot.ttf font** , "ztr firefox addon" in vindoz/linuks , phayrphoks
 <table style="width:100%">
@@ -6,9 +15,8 @@
 <tr> <td><a href="./linuks_install.md">install u5cdot.ttf in linuks/linux</a></td> </tr>
 <tr> <td><a href="./mozilla_u5cdot.md">install u5cdot.ttf in phayrphoks brauzr</a></td></tr>
 </table>
+
 ------
-### **[u5cdot phonts instal ke liye vizit kre](./hao_tu_install.md)**
-<hr></hr>
 <img src="imez/keybord/hbord_hpop_phonics.gif" alt="multilanguage keyboard">
 (keyboard layout phur hscii810 zava multilanguage mozilla mint linuks )
 <hr></hr>

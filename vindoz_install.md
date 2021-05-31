@@ -1,13 +1,3 @@
-##### 1) [unicase_phonts repozitory](https://github.com/Font77/unicase_phonts) dounlod kre ya git clone kre.
-```
-   1. click clone(green) button -> click "dounlod zip"
-   (or / ya phir apke pc me git install h To ap clone kr skTe h)
-   (git clone https://github.com/Font77/unicase_phonts.git)
-   3. AgAr zip dounload kiye h To unzip krke unicase_phonts pholdr prapT kiziyega
-   4. check kre unicase_phonts/yunikes pholder me u5cdot.ttf *.ttf files h. ye phonts files h.
-   5. inko vindouz/windows me install kre ke niche steps ko chlaye.
-```
-------
 ##### 2) vindouz me instal krne ke steps :
 ```
   1. unicase_phonts/yunikes folder me zaiyega.

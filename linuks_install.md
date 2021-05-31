@@ -1,13 +1,4 @@
 ### use Aur instal krne ke steps (steps phur use & installation)
--------
-##### 1) [unicase_phonts repozitory](https://github.com/Font77/unicase_phonts) dounlod kre ya git clone kre.
-```
-   1. click clone(green) button -> click "dounlod zip"
-   (or / ya phir apke pc me git install h To ap clone kr skTe h)
-   2. git clone https://github.com/Font77/unicase_phonts.git
-   3. AgAr zip dounload kiye h To unzip krke unicase_phonts pholdr prapT kiziyega
-   4. check kre unicase_phonts/yunikes pholder me u5cdot.ttf .ttf files h. ye phonts file h. inko vindouz/linuks/Android me install krTe h.
-```
 ------
 ##### 2) steps phur installation in linuks mint :[help/support](https://blog.softhints.com/add-new-fonts-in-linux-mint/)
 1. terminal ke $> prompt me "sudo apt-get install font-manager" command run kiziyega.
