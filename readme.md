@@ -4,7 +4,7 @@
 
 1. see above to click **code**(green) **button** -> click **dounlod zip**
  (or / ya phir apke computer me git install h To ap clone kr skTe h : git clone github.com/Font77/unicase_phonts.git )
-3. AgAr zip dounload kiye h To unzip krke unicase_phonts pholdr prapT kiziyega
+3. AgAr zip dounload kiye h To **unzip** krke unicase_phonts pholdr prapT kiziyega
 4. check kre unicase_phonts/yunikes pholder me u5cdot.ttf .ttf files h. ye phonts file h. inko vindouz/linuks/Android me install krTe h.
 
 ------
