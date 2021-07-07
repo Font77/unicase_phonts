@@ -1866,9 +1866,9 @@
     <layout>
       <configItem>
         <name>zi</name>
-        <!-- Keyboard indicator for skotz phonetik scotz language layouts -->
+        <!-- Keyboard indicator for skovz phonetik skovz language layouts -->
         <shortDescription>zi</shortDescription>
-        <description>skotz</description>
+        <description>skovz</description>
 	<languageList>
 		<iso639Id>ace</iso639Id>
 		<iso639Id>ben</iso639Id>
